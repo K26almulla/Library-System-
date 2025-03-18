@@ -11,4 +11,9 @@ This project focuses on enhancing Human-Computer Interaction (HCI) principles fo
 
 ![Alt text](https://github.com/K26almulla/Library-System-/blob/main/photo.jpg)
 
--  used figma and sketch ( UI/UX )
+The interface design was crafted using Figma and Sketch, ensuring:
+
+- Intuitive navigation – Easy-to-use menus and clear workflows.
+- User-centric design – Accessibility-focused layouts for students, librarians, and admins.
+- Prototype testing – Interactive mockups were tested to refine user experience before development.
+- Consistent visual identity – Clean typography, color schemes, and iconography for a modern look.
