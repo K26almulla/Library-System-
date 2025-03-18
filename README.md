@@ -9,6 +9,5 @@ The HCI Library Management System is a web-based application designed to streaml
   
 This project focuses on enhancing Human-Computer Interaction (HCI) principles for an efficient and accessible library experience.
 
-photo.jpg
 
 -  used figma and sketch ( UI/UX )
